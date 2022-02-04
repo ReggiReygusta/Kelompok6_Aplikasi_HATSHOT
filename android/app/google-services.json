@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168107320209",
+    "project_id": "hatshot-c863a",
+    "storage_bucket": "hatshot-c863a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168107320209:android:ad6bfc91b352c826d4b030",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_topi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168107320209-9j43ke3bjqp5va4jt5tipju1sh33i113.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBmXesG_4X3sf2jwQ0N1bq-6sjajGcEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168107320209-9j43ke3bjqp5va4jt5tipju1sh33i113.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
